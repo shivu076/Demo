@@ -2,5 +2,5 @@
 
 main()
 {
-  hello to cmrit
+ printf("hello to cmrit");
 }
